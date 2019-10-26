@@ -1,2 +1,4 @@
 # hello-world
-cout&lt;&lt;"Hello World" &lt;&lt; endl;
+First thing first
+cout << "Hello World" << endl;
+
